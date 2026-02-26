@@ -1,0 +1,10 @@
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\CalculadoraSoftware\CalculadoraSoftware\bin\Debug\CalculadoraSoftware.exe.config
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\CalculadoraSoftware\CalculadoraSoftware\bin\Debug\CalculadoraSoftware.exe
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\CalculadoraSoftware\CalculadoraSoftware\bin\Debug\CalculadoraSoftware.pdb
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\CalculadoraSoftware\CalculadoraSoftware\obj\Debug\CalculadoraSoftware.csproj.AssemblyReference.cache
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\CalculadoraSoftware\CalculadoraSoftware\obj\Debug\CalculadoraSoftware.Form1.resources
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\CalculadoraSoftware\CalculadoraSoftware\obj\Debug\CalculadoraSoftware.Properties.Resources.resources
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\CalculadoraSoftware\CalculadoraSoftware\obj\Debug\CalculadoraSoftware.csproj.GenerateResource.cache
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\CalculadoraSoftware\CalculadoraSoftware\obj\Debug\CalculadoraSoftware.csproj.CoreCompileInputs.cache
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\CalculadoraSoftware\CalculadoraSoftware\obj\Debug\CalculadoraSoftware.exe
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\CalculadoraSoftware\CalculadoraSoftware\obj\Debug\CalculadoraSoftware.pdb
