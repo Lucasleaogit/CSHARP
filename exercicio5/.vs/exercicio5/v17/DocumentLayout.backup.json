@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1006901.SENAC_EDUC\\Desktop\\Projetos\\Csharp\\exercicio5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE273E87-80AA-4E38-8C93-F91D4D04C66B}|exercicio5\\exercicio5.csproj|c:\\users\\1006901.senac_educ\\desktop\\projetos\\csharp\\exercicio5\\exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE273E87-80AA-4E38-8C93-F91D4D04C66B}|exercicio5\\exercicio5.csproj|solutionrelative:exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1006901.SENAC_EDUC\\Desktop\\Projetos\\Csharp\\exercicio5\\exercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio5\\Program.cs",
+              "ToolTip": "C:\\Users\\1006901.SENAC_EDUC\\Desktop\\Projetos\\Csharp\\exercicio5\\exercicio5\\Program.cs",
+              "RelativeToolTip": "exercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T18:18:26.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
