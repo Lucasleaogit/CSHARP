@@ -1,0 +1,10 @@
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\SerialArduinoVS2022\SerialArduinoVS2022\bin\Debug\SerialArduinoVS2022.exe.config
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\SerialArduinoVS2022\SerialArduinoVS2022\bin\Debug\SerialArduinoVS2022.exe
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\SerialArduinoVS2022\SerialArduinoVS2022\bin\Debug\SerialArduinoVS2022.pdb
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\SerialArduinoVS2022\SerialArduinoVS2022\obj\Debug\SerialArduinoVS2022.csproj.AssemblyReference.cache
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\SerialArduinoVS2022\SerialArduinoVS2022\obj\Debug\SerialArduinoVS2022.Form1.resources
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\SerialArduinoVS2022\SerialArduinoVS2022\obj\Debug\SerialArduinoVS2022.Properties.Resources.resources
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\SerialArduinoVS2022\SerialArduinoVS2022\obj\Debug\SerialArduinoVS2022.csproj.GenerateResource.cache
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\SerialArduinoVS2022\SerialArduinoVS2022\obj\Debug\SerialArduinoVS2022.csproj.CoreCompileInputs.cache
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\SerialArduinoVS2022\SerialArduinoVS2022\obj\Debug\SerialArduinoVS2022.exe
+C:\Users\1006901.SENAC_EDUC\Desktop\Projetos\Csharp\SerialArduinoVS2022\SerialArduinoVS2022\obj\Debug\SerialArduinoVS2022.pdb
